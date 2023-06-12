@@ -1,0 +1,10 @@
+
+wwwroot/
+\.vs/
+bin/
+obj/
+
+*.sln
+*.zip
+appsettings.json
+appsettings.Development.json
